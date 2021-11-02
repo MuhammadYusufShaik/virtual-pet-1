@@ -1,1 +1,2 @@
-# virtual-pet-1
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
